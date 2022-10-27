@@ -45,7 +45,7 @@ export default function Main() {
   };
 
   const JobInfoCarousel = {
-    speed: 500,
+    speed: 600,
     slidesToShow: 2,
     slidesToScroll: 2,
   };
